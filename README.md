@@ -4,18 +4,16 @@ A **Plataforma Apollo** é uma plataforma digital de imóveis desenvolvida para 
 
 ---
 
-## 🏠 Funcionalidades Principais
+##  Funcionalidades Principais
 
 - Publicação de imóveis para venda e arrendamento  
 - Visualização detalhada de cada imóvel  
-- Painel de controlo (dashboard)  
 - Gestão de usuários  
 - Interface moderna e responsiva  
-- Sistema preparado para expansão
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Next.js  
 - React  
